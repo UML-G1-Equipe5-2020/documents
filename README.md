@@ -4,5 +4,5 @@ Documents associés au projet de modélisation objet et UML 2020-2021 initulé "
 
 Equipe 5 du groupe 1 composée de:
   - Bonenfant Guillaume
-  - Lefevre Nathanael 
+  - Lefèvre Nathanaël 
   - Rocca Sébastien 
